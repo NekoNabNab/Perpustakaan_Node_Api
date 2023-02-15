@@ -1,6 +1,2 @@
-# Perpustakaan_Node_Api
-CRUD + Transaksi Perpustakaan
+#npm install --save express body-parser cors mysql moment
 
-intalation:
-
-npm install --save express body-parser cors mysql moment
