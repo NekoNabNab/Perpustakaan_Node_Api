@@ -1,2 +1,2 @@
-#npm install --save express body-parser cors mysql moment
+npm install --save express body-parser cors mysql moment
 
